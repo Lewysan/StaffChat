@@ -1,0 +1,6 @@
+name: StaffChat
+version: 0.0.1
+main: me.tyranzx.staffcore.StellarCore
+commands:
+    sc:
+        aliases: [staffchat]
