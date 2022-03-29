@@ -1,0 +1,3 @@
+# StaffChat
+
+Uso: /sc <mensaje>
