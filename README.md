@@ -1,6 +1,6 @@
 # StaffChat
 
-Uso: /sc <mensaje>
+Uso: /sc {mensaje}
   
 ![StaffChat Usage](https://user-images.githubusercontent.com/70720366/160630758-138d2092-69c3-4535-ab4c-c76b083d2376.PNG)
 
