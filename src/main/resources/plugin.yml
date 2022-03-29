@@ -1,6 +1,8 @@
 name: StaffChat
 version: 0.0.1
 main: me.tyranzx.staffcore.StellarCore
+author: "Tyranzx"
+description: "StaffChat for minecraft!"
 commands:
     sc:
         aliases: [staffchat]
