@@ -61,7 +61,7 @@ public final class StellarCore extends JavaPlugin implements CommandExecutor, Li
                     staffchat.remove(p); p.sendMessage(c("&7Staffchat &cdesactivado"));
                 }
             }
-            if (args.length >= 1) {
+            else if (args.length >= 1) {
                 StringBuilder sb = new StringBuilder();
                 for (int i = 0; i < args.length; i++) {
                     sb.append(args[i]);
