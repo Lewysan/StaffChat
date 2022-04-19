@@ -4,7 +4,7 @@ Uso:
   - /sc # Activar staffchat.
   - /sc {mensaje} # Mandar un mensaje simplemente, no activar.
   
-![StaffChat Usage](https://user-images.githubusercontent.com/70720366/160630758-138d2092-69c3-4535-ab4c-c76b083d2376.PNG)
+  ![2022-04-13_00 17 37](https://user-images.githubusercontent.com/70720366/163966945-61ad33e1-589f-48e2-b1fb-09665c652e78.png)
+![xxxx](https://user-images.githubusercontent.com/70720366/163966966-4c0db92d-198c-43a9-b074-3938a79db098.PNG)
 
-  - Uso del StringBuilder para este comando, antes utilizaba solo el for.
-  ![Repo](https://user-images.githubusercontent.com/70720366/160630555-94ff144e-e1ef-4dcc-af10-613ca44645b0.PNG)
+
