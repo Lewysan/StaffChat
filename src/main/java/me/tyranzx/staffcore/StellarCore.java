@@ -38,6 +38,7 @@ public final class StellarCore extends JavaPlugin implements CommandExecutor, Li
     }
     @Override
     public void onEnable() {
+        server.getConsoleSender().sendMessage(this.c("&aStaffChat &7by Tyranzx &8| &cVersion: &f1.0"));
         this.getCommand("sc").setExecutor(this);
         server.getPluginManager().registerEvents(this, this);
     }
