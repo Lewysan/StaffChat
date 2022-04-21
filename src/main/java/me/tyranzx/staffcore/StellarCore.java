@@ -75,6 +75,7 @@ public final class StellarCore extends JavaPlugin implements CommandExecutor, Li
                         if (p instanceof Player){
                             Bukkit.getConsoleSender().sendMessage(c("&8[&aStaffChat&8] &f")+p.getName()+c(": &b")+sb.toString());
                             staff.sendMessage(c("&8[&aStaffChat&8] &f")+p.getName()+c(": &b")+sb.toString());
+                            p.sendMessage(c("&8[&aStaffChat&8] &f")+p.getName()+c(": &b")+sb.toString())
                         }
                         else if (p instanceof ConsoleCommandSender){
                             Bukkit.getConsoleSender().sendMessage(c("&8[&aStaffChat&8] &e")+p.getName()+c(": &b")+sb.toString());
